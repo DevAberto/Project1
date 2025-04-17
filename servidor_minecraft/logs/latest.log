@@ -73,3 +73,12 @@
 [19:58:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.706s)! For help, type "help" or "?"
 [19:58:12] [Server thread/INFO] [FML]: Unloading dimension -1
 [19:58:12] [Server thread/INFO] [FML]: Unloading dimension 1
+[20:13:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[20:13:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:13:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:13:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:13:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[20:13:50] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:13:50] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:13:50] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:13:50] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
