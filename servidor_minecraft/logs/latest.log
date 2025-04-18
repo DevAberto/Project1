@@ -1,84 +1,310 @@
-[19:57:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:57:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:57:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:57:57] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[19:57:57] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[19:57:57] [main/INFO] [FML]: Searching /workspaces/Project1/servidor_minecraft/./mods for mods
-[19:57:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:57:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:57:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:57:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:57:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:57:58] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[19:57:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:57:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:57:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:57:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:57:59] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[19:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[19:58:01] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[19:58:01] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[19:58:01] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[19:58:01] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[19:58:01] [Server thread/INFO] [FML]: Config directory created successfully
-[19:58:01] [Server thread/INFO] [FML]: Searching /workspaces/Project1/servidor_minecraft/./mods for mods
-[19:58:02] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[19:58:02] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[19:58:02] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[19:58:02] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[19:58:02] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[19:58:02] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[19:58:02] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[19:58:02] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[19:58:02] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[19:58:02] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[19:58:02] [Server thread/INFO] [FML]: Applying holder lookups
-[19:58:02] [Server thread/INFO] [FML]: Holder lookups applied
-[19:58:02] [Server thread/INFO] [FML]: Applying holder lookups
-[19:58:02] [Server thread/INFO] [FML]: Holder lookups applied
-[19:58:02] [Server thread/INFO] [FML]: Applying holder lookups
-[19:58:02] [Server thread/INFO] [FML]: Holder lookups applied
-[19:58:02] [Server thread/INFO] [FML]: Applying holder lookups
-[19:58:02] [Server thread/INFO] [FML]: Holder lookups applied
-[19:58:02] [Server thread/INFO] [FML]: Injecting itemstacks
-[19:58:02] [Server thread/INFO] [FML]: Itemstack injection complete
-[19:58:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[19:58:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[19:58:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[19:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[19:58:03] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[19:58:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:58:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[19:58:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:58:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:58:03] [Server thread/INFO] [FML]: Applying holder lookups
-[19:58:03] [Server thread/INFO] [FML]: Holder lookups applied
-[19:58:03] [Server thread/INFO] [FML]: Injecting itemstacks
-[19:58:03] [Server thread/INFO] [FML]: Itemstack injection complete
-[19:58:03] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[19:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[19:58:03] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4de3da41)
-[19:58:03] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[19:58:03] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[19:58:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4de3da41)
-[19:58:04] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4de3da41)
-[19:58:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[19:58:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
-[19:58:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 15%
-[19:58:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
-[19:58:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
-[19:58:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
-[19:58:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 68%
-[19:58:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 89%
-[19:58:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.706s)! For help, type "help" or "?"
-[19:58:12] [Server thread/INFO] [FML]: Unloading dimension -1
-[19:58:12] [Server thread/INFO] [FML]: Unloading dimension 1
-[20:13:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[20:13:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[20:13:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[20:13:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[20:13:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[20:13:50] [Server thread/INFO] [FML]: Unloading dimension 0
-[20:13:50] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[20:13:50] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[20:13:50] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:02:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [BladePatterson_: Set own game mode to Creative Mode]
+[00:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [BladePatterson_: Set own game mode to Survival Mode]
+[00:05:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [BladePatterson_: Set own game mode to Creative Mode]
+[00:06:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [BladePatterson_: Set own game mode to Survival Mode]
+[00:08:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:08:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:09:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ moved wrongly!
+[00:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [BladePatterson_: Set own game mode to Creative Mode]
+[00:13:09] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.a8$a:lambda$onMessage$0:-1]: teleporting player a7c0ced6-10b5-3ebb-b76b-0fcee15adfd6 to (-3317.3223679322646, 66.87999999523163, 287.85052622107037)
+[00:14:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 0d4555a7-51fb-45f3-a61e-7e62ec299f9a owned by null
+[00:14:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID f2df09c7-4cff-464f-9af5-c64ed2981412 owned by null
+[00:14:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID b10a6fbc-52cc-4044-9cdd-59a5fa6abf8b owned by null
+[00:14:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kakla with UUID a0488a5f-a6d9-4aac-8fa6-39022afbd7af owned by null
+[00:14:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 0d4555a7-51fb-45f3-a61e-7e62ec299f9a owned by null
+[00:14:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID f2df09c7-4cff-464f-9af5-c64ed2981412 owned by null
+[00:14:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID b10a6fbc-52cc-4044-9cdd-59a5fa6abf8b owned by null
+[00:14:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kakla with UUID a0488a5f-a6d9-4aac-8fa6-39022afbd7af owned by null
+[00:16:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: BladePatterson_ lost connection: Disconnected
+[00:16:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: BladePatterson_ left the game
+[01:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:10:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:10:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:10:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:10:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:10:11] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:10:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:10:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:10:11] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
